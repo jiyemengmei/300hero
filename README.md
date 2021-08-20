@@ -1,6 +1,6 @@
 # 300英雄出租自动推送
 ## 功能介绍
-基于hoshino机器人，在群内绑定300英雄角色ID，实现群内自动推送出租信息，胜场信息。
+基于hoshino机器人，在群内绑定300英雄角色ID，实现群内自动推送助手出租信息，战场胜场信息。
 ## 具体操作
 1、在<code>hoshino/modules</code>文件夹中，打开<code>cmd</code>，输入以下代码 按回车执行：
 <pre>git clone https://github.com/jiyemengmei/300hero.git</pre>
@@ -23,7 +23,7 @@
 <a href="http://static.300mbdl.cn/box/index.html#/home" target="_BLANK">300助手</a>\
 <a href="http://300.electricdog.net/300hero" target="_BLANK">300英雄胜场查询网</a>
 ## API
-<a href="http://api.300mbdl.cn/%E6%8E%A5%E5%8F%A32/%E7%A7%9F%E5%8F%B7/%E7%A7%9F%E5%8F%B7%E5%A4%A7%E5%8E%85?%E9%A1%B5=1&%E9%A1%B5%E9%95%BF=200" target="_BLANK">出租信息</a>
+<a href="http://api.300mbdl.cn/%E6%8E%A5%E5%8F%A32/%E7%A7%9F%E5%8F%B7/%E7%A7%9F%E5%8F%B7%E5%A4%A7%E5%8E%85?%E9%A1%B5=1&%E9%A1%B5%E9%95%BF=200" target="_BLANK">出租信息</a>\
 <a href="http://300.electricdog.net/300hero/" target="_BLANK">胜场信息</a>
 ## 更新日志
 ### 2021/8/20
