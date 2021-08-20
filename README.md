@@ -3,7 +3,7 @@
 基于hoshino机器人，在群内绑定300英雄角色ID，实现群内自动推送出租信息，胜场信息。
 ## 具体操作
 1、在<code>hoshino/modules</code>文件夹中，打开<code>cmd</code>，输入以下代码 按回车执行：
-<pre>git clone https://github.com/jiyemengmei/300hero-report.git</pre>
+<pre>git clone https://github.com/jiyemengmei/300hero.git</pre>
 2、在<code>hoshino/config/__bot__.py</code>文件中，<code>MODULES_ON</code>里添加 "300hero"
 ## 功能指令
 |  指令   | 说明  | 具体  |
