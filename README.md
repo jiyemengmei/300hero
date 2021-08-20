@@ -16,7 +16,9 @@
 | 查胜场  | 查询自己绑定角色的胜场信息，用@可以查询他人的信息  |
 | 查出租  | 查询自己绑定角色的出租信息，用@可以查询他人的信息  |
 ## 其他
-本插件大部分源码是参考<a href="https://github.com/cc004/pcrjjc2" target="_BLANK">pcrjjc2</a>修改而来的，特此鸣谢！\
+本插件逻辑写的很烂，在众多大佬的帮助下才完成的。
 ## 鸣谢
-<a href="https://github.com/Mrs4s/go-cqhttp" target="_BLANK">https://github.com/Mrs4s/go-cqhttp</a>\
-<a href="https://github.com/Ice-Cirno/HoshinoBot" target="_BLANK">https://github.com/Ice-Cirno/HoshinoBot</a>
+<a href="https://github.com/Mrs4s/go-cqhttp" target="_BLANK">go-cqhttp</a>\
+<a href="https://github.com/Ice-Cirno/HoshinoBot" target="_BLANK">HoshinoBot</a>
+<a href="http://static.300mbdl.cn/box/index.html#/home" target="_BLANK">300助手</a>
+<a href="http://300.electricdog.net/300hero" target="_BLANK">300英雄胜场查询网</a>
