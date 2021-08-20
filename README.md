@@ -22,3 +22,6 @@
 <a href="https://github.com/Ice-Cirno/HoshinoBot" target="_BLANK">HoshinoBot</a>\
 <a href="http://static.300mbdl.cn/box/index.html#/home" target="_BLANK">300助手</a>\
 <a href="http://300.electricdog.net/300hero" target="_BLANK">300英雄胜场查询网</a>
+## 更新日志
+### 2021/8/20
+首次上传
